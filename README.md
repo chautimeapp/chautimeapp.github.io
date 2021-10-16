@@ -1,6 +1,6 @@
 # chautimeapp.github.io
 
-*** DESIGN DECISIONS ***
+** DESIGN DECISIONS **
 
 Overall Goal:
 
@@ -30,8 +30,7 @@ Sharing Recipes:
 - a way to share media-focused recipes across a smaller platform to friends and loved ones. The intent is not for this to be a social-media focused app; rather, one shared amongst close family and friends
 - this will be done through Apple's Messages App, and possibly via a hardcopy reformatting of a recipe for those more traditional
 
-
-*** TECHNOLOGY ***
+** TECHNOLOGY **
 
 SwiftUI
 
@@ -44,7 +43,7 @@ AVFoundation
 Google Sign-In
 
 
-*** MOTIVATION ***
+** MOTIVATION **
 
 Growing up, I had always hoped for a method of storing my mother's traditional Cambodian recipes.
 
