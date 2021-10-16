@@ -1,7 +1,9 @@
 # chautimeapp.github.io
 
 *** DESIGN DECISIONS ***
+
 Overall Goal:
+
 An app for creating captivating recipes through a media-focused platform rather than mere text, and a user-friendly design without skimping on modern aesthetics.
 
 We wanted an app that was:
@@ -30,14 +32,20 @@ Sharing Recipes:
 
 
 *** TECHNOLOGY ***
+
 SwiftUI
+
 UIKit
+
 PhotosUI
+
 AVFoundation
+
 Google Sign-In
 
 
 *** MOTIVATION ***
+
 Growing up, I had always hoped for a method of storing my mother's traditional Cambodian recipes.
 
 My sister and I pondered, how could we convince our busy mother to somehow get us a copy of her recipes? Handwritten cards? A Blog or Vlog? An Infographic? We threw all of these ideas at her over the years, but in the end none of them really stuck.
